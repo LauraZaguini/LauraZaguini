@@ -13,7 +13,7 @@ Ei, tudo bem? Meu nome é Laura! Tenho 22 anos no momento que escrevi isso aqui,
 
 Mande um email para mim clicando do lado: [johnknoxx1@gmail.com](mailto:johnknoxx1@gmail.com)
 
-- 😄 Entre na minha masmorra: [marapereira.me](http://marapereira.me) (Conteúdo em Português!)
+- 😄 Entre na minha masmorra: [marapereira.me](https://linktr.ee/laurazaguini) (Conteúdo em Português!)
 
 - - - - - - - - - - - - - - - -
 
@@ -21,7 +21,7 @@ Sup! Everything up? My name is Laura! Have 22 years old when i typing this, i li
 
 Send me a email to me!: [johnknoxx1@gmail.com](mailto:johnknoxx1@gmail.com)
 
-- 😄 Enter in my dungeon: [marapereira.me](http://marapereira.me) (Portuguese content!)
+- 😄 Enter in my dungeon: [marapereira.me](https://linktr.ee/laurazaguini) (Portuguese content!)
 
 <!--
 **LauraZaguini/LauraZaguini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
