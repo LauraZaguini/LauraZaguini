@@ -1,4 +1,4 @@
-### Ei, meu nome é Laura! 🐸 Sup! My name is Laura! 🐸
+### 🐸 Sup! My name is Laura! 🐸
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://laurazagp.itch.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NancyManchas)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linktr.ee/laurazaguini)
