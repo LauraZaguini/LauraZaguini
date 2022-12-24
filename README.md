@@ -11,7 +11,7 @@
 
 Sup! Everything up? My name is Laura! Have 22 years old when i typing this, i live in Curitiba - Parana - Brazil! In this moment, i studyng with no rest about Game Maker Language using Game Maker Studio 2. I have some little knowledge about pixel art and more about program. If you wanna see my projects, just acess this website [link](https://laurazagp.itch.io/)
 
-Send me a email to me!: [johnknoxx1@gmail.com](mailto:johnknoxx1@gmail.com)
+Send me a email to me!: [laurazagpereira@gmail.com](mailto:laurazagpereira@gmail.com)
 
 - 😄 Enter in my dungeon: [marapereira.me](https://linktr.ee/laurazaguini) (Portuguese content!)
 
