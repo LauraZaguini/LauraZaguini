@@ -1,64 +1,87 @@
-### 🐸 Sup! My name is Laura! 🐸
+<br clear="both">
 
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraZaguini&show_icons=true&theme=synthwave)
+<h1 align="center">Good to see you. My name is Laura.</h1>
 
-## <div align="center"> 🐸 Hey! My name is Laura, a Web Design student living in Brazil with a great passion for Website Design related to UI/UX</div>
+###
 
-<table><tr><td valign="top" width="33%">
+<br clear="both">
 
-<div align="center">  
-<!-- <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  -->
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<h3 align="left">Based on Curitiba - Brazil 🏖️<br><br>- 📚 I'm currently learning React JS<br>- ❓ Can ask me anything about games and arts<br>- 🍂 Minimalist lover of things</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LauraZaguini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LauraZaguini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-</td><td valign="top" width="33%">
+###
 
-<div align="center">   
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-</td></tr></table>  
+###
 
-<br/>
-### My Social Medias 🐸
+<div align="left">
+  <a href="mailto:johnknoxx1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://ko-fi.com/P5P26IPYK" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  </a>
+  <a href="https://twitter.com/HerenaNisan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="unsplash logo"  />
+</div>
+
+###
+
+<img align="right" height="200" src="https://img.itch.zone/aW1nLzEzMjE5NDg1LmdpZg==/100x100%23/aBaGFJ.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/LauraZaguini/LauraZaguini/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Questionable musical taste 🧿</p>
+
+###
+
 <div align="center">
-<a href="#">
-<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" style="margin-bottom: 5px;"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Ko-fi" style="margin-bottom: 5px;"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ko-fi" style="margin-bottom: 5px;"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Ko-fi" style="margin-bottom: 5px;"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ko-fi" style="margin-bottom: 5px;"/>
-</a>
-</div>  
+  <a href="https://open.spotify.com/user/vaultdesk">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vaultdesk&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
 
-<!--
-**LauraZaguini/LauraZaguini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Hello Stranger.</p>
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LauraZaguini/count.svg?"  />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
