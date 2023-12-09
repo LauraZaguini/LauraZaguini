@@ -28,14 +28,20 @@
 <br/>
 ## My Social Medias 🐸
 <div align="center">
-<a href="https://linkedin.com/in/saraech" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/bl33h_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="#">
 <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" style="margin-bottom: 5px;"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Ko-fi" style="margin-bottom: 5px;"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Ko-fi" style="margin-bottom: 5px;"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Ko-fi" style="margin-bottom: 5px;"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ko-fi" style="margin-bottom: 5px;"/>
 </a>
 </div>  
 Send me a email to me!: [laurazagpereira@gmail.com](mailto:laurazagpereira@gmail.com)
