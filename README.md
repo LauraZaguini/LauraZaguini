@@ -1,17 +1,39 @@
 ### 🐸 Sup! My name is Laura! 🐸
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P26IPYK)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://marapereira.itch.io/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MaraPereiraZag)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linktr.ee/marapereirazag)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnknoxx1@gmail.com)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/marapereira1994)
 
 ![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraZaguini&show_icons=true&theme=synthwave)
 
-[![Made with GameMaker Studio](https://img.shields.io/badge/Made%20With-GameMaker_Studio-8cd248.svg?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAOCAMAAAACJixMAAABKVBMVEWM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kj298qCAAAAYnRSTlMAAgMEBQYJDhAREhsgISMqKyw2PkFCQ0ZIS09QUVhbXGNnam1wcXV2d3t9f4GChYeJio6PkJGXnJ2gpKapqq2yv8LExcjKy8zP0dfb3uDh4%2Bbn6Onq6%2Bzt7vDx8vT4%2Bvv8%2Fi7vr7oAAADYSURBVHgBNdB3M8RgEIDxFyfndFE4Xqf308spTuH0EBLJq0TC8%2F0%2FhETs%2FvXM%2FGZ2dlbtv5vXilK2G4R17flXtvqfvhjcdnUGjN0A95bIBjA3AhwsATAvUHKJ9R1EvYvbOwGYDpFJ9maB9ayngJpAy0nZg6e2rAvXkNgihSP4mch74BsumkXqKYzn2Z%2FApSXQ%2FQlO8W9tA75Gj0siVWA1PwR2F1gRKDoQba4tdz6CXw756BKpAFCrAjMaOBRoOgeehyN4sFpvgUGRnkZoprfSh2qlhl7M2%2BkvvuY4s1%2FFgmwAAAAASUVORK5CYII%3D)](https://www.yoyogames.com/gamemaker)
+## <div align="center"> 🐸 Hey! My name is Laura, a Web Design student living in Brazil with a great passion for Website Design related to UI/UX</div>
 
-Sup! Everything up? My name is Laura! Have 22 years old when i typing this, i live in Curitiba - Parana - Brazil! In this moment, i studyng with no rest about Game Maker Language using Game Maker Studio 2. I have some little knowledge about pixel art and more about program. If you wanna see my projects, just acess this website [link](https://laurazagp.itch.io/)
+<table><tr><td valign="top" width="33%">
 
+<div align="center">  
+<!-- <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  -->
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+<div align="center">   
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>
+## My Social Medias 🐸
+<div align="center">
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P26IPYK)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://marapereira.itch.io/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HerenaNisan)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linktr.ee/marapereirazag)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnknoxx1@gmail.com)
+</div>
 Send me a email to me!: [laurazagpereira@gmail.com](mailto:laurazagpereira@gmail.com)
 
 - 😄 Enter in my dungeon: [marapereira.me](https://linktr.ee/laurazaguini) (Portuguese content!)
