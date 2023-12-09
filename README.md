@@ -26,7 +26,7 @@
 </td></tr></table>  
 
 <br/>
-## <div align="center"> My Social Medias 🐸</div>
+### My Social Medias 🐸
 <div align="center">
 <a href="#">
 <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" style="margin-bottom: 5px;"/>
