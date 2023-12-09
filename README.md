@@ -64,14 +64,6 @@
 
 ###
 
-<h4 align="left">Go snake Go!</h4>
-
-###
-
-<img src="https://raw.githubusercontent.com/LauraZaguini/LauraZaguini/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Visitor Count</p>
 
 ###
