@@ -26,7 +26,7 @@
 </td></tr></table>  
 
 <br/>
-## My Social Medias 🐸
+## <div align="center"> My Social Medias 🐸</div>
 <div align="center">
 <a href="#">
 <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" style="margin-bottom: 5px;"/>
@@ -44,9 +44,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ko-fi" style="margin-bottom: 5px;"/>
 </a>
 </div>  
-Send me a email to me!: [laurazagpereira@gmail.com](mailto:laurazagpereira@gmail.com)
 
-- 😄 Enter in my dungeon: [marapereira.me](https://linktr.ee/laurazaguini) (Portuguese content!)
 
 <!--
 **LauraZaguini/LauraZaguini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
