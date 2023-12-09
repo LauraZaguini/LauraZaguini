@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center"><<img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50" /> Good to see you. My name is Laura.</h1>
+<h1 align="center"><img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50" /> Good to see you. My name is Laura.</h1>
 
 ###
 
