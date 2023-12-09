@@ -34,9 +34,7 @@
 <a href="https://instagram.com/bl33h_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/bl33h" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-</a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P26IPYK)
 </div>  
 Send me a email to me!: [laurazagpereira@gmail.com](mailto:laurazagpereira@gmail.com)
 
