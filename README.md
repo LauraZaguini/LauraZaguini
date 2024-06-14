@@ -1,75 +1,34 @@
-<br clear="both">
+<h3>Good morning.</h3>
 
-<h1 align="center"><img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="50" /> Good to see you. My name is Laura.</h1>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="mailto:johnknoxx1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://ko-fi.com/P5P26IPYK" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-  </a>
-  <a href="https://twitter.com/HerenaNisan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Unsplash&logo=unsplash&label=&color=111&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="unsplash logo"  />
+<div>
+  <h3>About me</h3>
+  <p>😀 Minimalist things make me happy</p>
+  <p>🍎 Apple lover</p>
+  <p>🔎 Looking for new experiences</p>
 </div>
 
-###
-
-<br clear="both">
-
-<p align="left">Based on Curitiba - Brazil 🏖️<br><br>- 📚 I'm currently learning React JS<br>- ❓ Can ask me anything about games and arts<br>- 🍂 Minimalist lover of things</p>
+<h3 align="left">My skills not isues</h3>
 
 ###
-
-<h3 align="left">GitHub Status ♻️</h3>
-
-###
+<h3>Technologies</h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LauraZaguini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LauraZaguini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://camo.githubusercontent.com/9bb8902d6fde4b0ea32ebdb8e5162dd578cd13d693ab8d35ed5eb7daad78abf8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3233393132303f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465g" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/20b9177e58a90fa0d7b42200f157f22089e4ae9f781ed98293d1de3b69486590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465" height="30" alt="C#/csharp logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/cf1a49b0e15f9c42fc747bf4b105afc42bfd53d27b566a6d32dbc177fedb4af8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465" height="30" alt=".net/dotnet logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/c5cb1e7fe846c0859ef14b92c3ded6d512e081d732986922a456c57d60e6cbf7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" height="30" alt="html logo"  />
 </div>
 
 ###
 
-<h3 align="left">Myl Skills 💪</h3>
-
-###
-
+<h3>DEV Tools</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://camo.githubusercontent.com/f38298638f10774e1f0205a1111dff4a7675c0ed8600356f28e8276c2bab8235/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" height="30" alt="git logo"  />
+  <img src="https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" height="30" alt="github logo"  />
 </div>
-
-###
-
-<p align="left">Visitor Count</p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LauraZaguini/count.svg?"  />
-</div>
-
 ###
